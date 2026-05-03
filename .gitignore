@@ -1,0 +1,12 @@
+# Internal planning / AI prompt files
+claude-requirements.txt
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor artifacts
+.vscode/
+*.swp
+*.swo
